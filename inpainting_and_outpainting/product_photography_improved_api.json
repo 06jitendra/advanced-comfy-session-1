@@ -789,7 +789,7 @@
     "66": {
         "inputs": {
             "default_value": "",
-            "label": "Background Prompt"
+            "label": "Input Background Prompt"
         },
         "class_type": "FSLoadText",
         "_meta": {
